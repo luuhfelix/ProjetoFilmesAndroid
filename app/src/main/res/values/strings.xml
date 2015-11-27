@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Catalogo De Filmes</string>
+    <string name="title_activity_cinemas_on_maps">Cinemas</string>
+    <string name="title_activity_main">Catalogo De Filmes</string>
+    <string name="action_settings">Settings</string>
+    <string name="results"></string>
+    <string name="nome_filme">Nome</string>
+    <string name="lancamento_filme">Lançamento</string>
+    <string name="diretor_filme">Diretor</string>
+    <string name="atores_filme">Atores</string>
+    <string name="nacionalidade_filme">Nacionalidade</string>
+    <string name="genero_filme">Genero</string>
+    <string name="btn_cinemas">Localizar Cinemas</string>
+
+</resources>
+
